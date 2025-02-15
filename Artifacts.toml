@@ -1,61 +1,61 @@
 [[libzenohc]]
 arch = "aarch64"
-git-tree-sha1 = "c130126dbc70f156378d7e4b8fbc9474e26608a3"
+git-tree-sha1 = "e078142809841eaf6bfa83aadda4449f2293af12"
 os = "macos"
 
     [[libzenohc.download]]
-    sha256 = "04fc3eb481016dab9338152e312e522c05fedfcb540391501d4b155f1dfb6d1f"
-    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.0+0/libzenohc.v1.2.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "cc6a6c6be46709494420bb63d53a5b9191c28dbd63a63ae45d8aa43cb4f9b4ae"
+    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.1+0/libzenohc.v1.2.1.aarch64-apple-darwin.tar.gz"
 [[libzenohc]]
 arch = "aarch64"
-git-tree-sha1 = "c886965b15b8b8b6dca86718ce5e39fc51c9ac51"
+git-tree-sha1 = "52c5919c715a8908511bc2e414f99888605bdc58"
 libc = "glibc"
 os = "linux"
 
     [[libzenohc.download]]
-    sha256 = "d76c28aca0a61d0a3b7de9368e7170d4013b807324f5253a80104f1828215f28"
-    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.0+0/libzenohc.v1.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "161c025177330e1e7458ccf68535c29aba84a5e57e0bb260fbbef45089a54ce0"
+    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.1+0/libzenohc.v1.2.1.aarch64-linux-gnu.tar.gz"
 [[libzenohc]]
 arch = "aarch64"
-git-tree-sha1 = "174dedf9e518e68419e8df58f4d015923abe57df"
+git-tree-sha1 = "de60174144157377366e92096a107d454f5a3db7"
 libc = "musl"
 os = "linux"
 
     [[libzenohc.download]]
-    sha256 = "88a5420648158f4a1155f599262f8a70d5715af8495a8b3b77d89b15dc1d512f"
-    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.0+0/libzenohc.v1.2.0.aarch64-linux-musl.tar.gz"
+    sha256 = "eb281b404a6f34d5942d308669cfa2b58358cc4fb85fe2a3a3f86a8e1ca85c1d"
+    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.1+0/libzenohc.v1.2.1.aarch64-linux-musl.tar.gz"
 [[libzenohc]]
 arch = "powerpc64le"
-git-tree-sha1 = "1d715295af214ea458af592a4402086cc78b57a6"
+git-tree-sha1 = "e4e18e94615848d77cd84f94c773fdc304385f97"
 libc = "glibc"
 os = "linux"
 
     [[libzenohc.download]]
-    sha256 = "7e0341922196e1ef0b5cf4cb2e6371111f98d1cd3f6bacb7f1025b0145a18dcb"
-    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.0+0/libzenohc.v1.2.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "168ac7a04a7e8d012827affb36ebafdbeea846ffad37fe797dcf2cfd533521d2"
+    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.1+0/libzenohc.v1.2.1.powerpc64le-linux-gnu.tar.gz"
 [[libzenohc]]
 arch = "x86_64"
-git-tree-sha1 = "eb50e2e341af498da13a6ec5b4e74e263f77f676"
+git-tree-sha1 = "e58ed63d73fabbd207af3327b0ea4e94780400c4"
 os = "macos"
 
     [[libzenohc.download]]
-    sha256 = "51714d69d56aed3360be4ecb8bde78645b4911b88af7591bc408ac1dfdd99d32"
-    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.0+0/libzenohc.v1.2.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "38794a3ddff8c52e15bec6a884a5eedb31623a9761a32454a78dda3f1a41f724"
+    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.1+0/libzenohc.v1.2.1.x86_64-apple-darwin.tar.gz"
 [[libzenohc]]
 arch = "x86_64"
-git-tree-sha1 = "09c502a5ddf67914e9420a09df93eacc08a5a7d1"
+git-tree-sha1 = "b972212c926711d6b0553e9d2dc6443aa4bf36b2"
 libc = "glibc"
 os = "linux"
 
     [[libzenohc.download]]
-    sha256 = "44b7e9f9a8e7970fd0c5eae4acfaa1c751d09b8d7cebd522420ab566da41c3ec"
-    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.0+0/libzenohc.v1.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "b932e25dad59c1db4d7fb912ca512bd69536b401788fb5568769a6d3a3dde36d"
+    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.1+0/libzenohc.v1.2.1.x86_64-linux-gnu.tar.gz"
 [[libzenohc]]
 arch = "x86_64"
-git-tree-sha1 = "3ce63d91f9891d9a54df8f100dc9ff0877d786fa"
+git-tree-sha1 = "61e5de130ac6268f7316fdb86e273e1dd6dfbfb9"
 libc = "musl"
 os = "linux"
 
     [[libzenohc.download]]
-    sha256 = "fe7c406d4cdd02717bec65377ad6ed33958d5bb113569e24ffa730921e25388d"
-    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.0+0/libzenohc.v1.2.0.x86_64-linux-musl.tar.gz"
+    sha256 = "fc29b611fa481ade367c9ff312b2e4d04aebeda68b0ef2f16e46f4318a6e6bc8"
+    url = "https://github.com/JuliaBinaryWrappers/libzenohc_jll.jl/releases/download/libzenohc-v1.2.1+0/libzenohc.v1.2.1.x86_64-linux-musl.tar.gz"
